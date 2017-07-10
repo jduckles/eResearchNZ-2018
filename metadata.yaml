@@ -1,32 +1,31 @@
 ---
 biblio-files: papers
-biblio-style: IEEEtranN-nourl # custom BST to ignore URLs in papers.bib
+biblio-style: IEEEtran # custom BST to ignore URLs in papers.bib
 
 classoption:
     - conference
 
-title: "Hey hey you you I don't like your ti-tle: An empirical study"
+title: "Software Carpentry: Self Assessments by Workshop Attendees of Changes in Confidence and Motivation"
 
 author:
-    - name: Christop
-      affiliation: University of Butts
-      location: Buttville, USA
-      email: cscorley@ua.edu
-    - name: Bubbie, Pigpen
-      affiliation: Cat Institute
-      email: \{cat1, cat2\}\@cat.cat
+    - name: Jonah M. Duckles
+      affiliation: Software Carpentry
+      email: jduckles@carpentries.org
+    - name: Dr. Kari L. Jordan
+      affiliation: Data Carpentry
+      email: kariljordan@carpentries.org
 
 keyword:
-      - yeah yeah yeah
-      - no no no
+      - teaching
+      - skills
+      - training
+      - capacity building
 
 graphics: yes
 numbersections: yes
 
 abstract: |
-    lorem buttsum
+    Digital research skills are now essential  in every academic discipline. The availability of inexpensive compute and storage have brought us into a data-rich era where more and more researchers need a range of digital skills to do even the most basic research. Software Carpentry has a long history of teaching computational skills at workshops and building communities of practice around skills development. We approach this by developing an open, inviting and inclusive community. We collaborate to build high quality lessons and train people who would like to teach workshops under the flag of Software Carpentry. We have been collecting pre- and post-workshop assessments for some time now. This paper presents some data to support the effectiveness of our approach in demystifying technical skills. There is still work to do, but with the ongoing growth and expansion of our community to new organizations, these findings make it apparent that our approach is having an impact.
 
 # don't delete this line, bud
 ...
-
-

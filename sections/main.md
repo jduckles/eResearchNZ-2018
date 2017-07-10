@@ -1,14 +1,51 @@
 # Introduction
 
-butts [@Corley-etal_2011] and beavis[^1].
+Software Carpentry (SWC) is a non-profit organization that trains researchers to teach hands-on, live-instructed workshops for software skills development, primarily in the university and research sectors. We also collaboratively develop lessons as a community and discuss how to teach them most effectively. SWC focuses on common approaches for automating repetitive tasks, data management, defensive programming, source control, and code execution environments[@_software_2017].
 
-![Cool figure](example) {.two}
+These workshops use active learning to give learners the opportunity to try the skills and gain immediate feedback with high student-teacher/student-helper ratios. We offer both guided and independent challenges, and an interactive and friendly environment for learning [@teal_data_2015]. Combined, these workshops provide strong opportunities for learning and the needed conceptual framework for participants to excel in data-driven research [@sandve_ten_2013] [@osborne_ten_2014].
 
-[^longnote]
+Our network of instructors (who are themselves researchers) have reported  significant career benefits from volunteering to teach our workshops [@duckles_value_2016]. In this paper, we present findings from our pre- and post-workshop surveys. Outcomes from our surveys show that the Carpentries instructional approach increases motivation and decreases intimidation with respect to learning the open source tools UNIX Shell, Git, Python, R and SQL querying. These surveys were developed by our community to help understand the impact these lessons have on learners own perceived effecicacy. They report  learners’ own assessments of their abilities and confidence in many skill areas.
+
+# Skills Workshops for Researchers
+
+Software Carpentry is successful because of collective involvement and community orientation. The existing, proven, low-cost model is scalable, with a network of more than 968 instructors teaching 22,000 learners at 860 workshops since 2012 [@_about_]. New instructors are largely drawn from learners or helpers at workshops. They are credentialled via a two-day instructor training workshop, which uses evidence-based methods in engaging ways to train them. We currently have 31 senior instructors (known as trainers) running these train-the-trainer workshops to induct new instructors into the community. New instructors are supported by an ongoing mentorship program, which provides opportunities to reflect upon and to improve their instructional practices in a supportive environment. Lessons are open source, developed as a collective,  community effort, and represent the informed  consensus of what should and should not be included in a short, highly focused, intensive workshop.
+
+# Building and Connecting Communities of Practice
+
+Software Carpentry instructor training (train-the-trainer) is the primary mechanism for bringing our teaching culture to new organizations. Through this training, we provide researchers with  tools for thinking about and preparing to teach technical workshops in impactful ways. Using the latest in evidence-based teaching practices, we prepare our instructors to develop the skills needed to keep a workshop fun and engaging. Additionally, our mentoring and support activities help instructors to build a continuous improvement cycle in how they teach. This focused  instructor training is the key step to the outcomes. Instructing at technical workshops is challenging and demanding; we find that through some intentional preparation, our instructors can have much higher impact with learners.
+
+# Measuring impact
+
+To measure and communicate the impact, we undertake pre-workshop and post-workshop surveys and a long-term follow up survey to gauge the impact we are having with our workshops. Here we present findings from the post-workshop survey report.  This report has been created  from feedback from more than 4,000 respondents since March 2015. The survey questions are given both before (pre-) and after (post-) each workshop [@_assessment_2017]. Responses from the pre-workshop survey have totaled over 8000 learners and the post-workshop surveys had nearly 4000 responses. This survey is ongoing and the findings reported are for 367 workshops since December 2015 [@_swc_pre] [@_swc_post].
+
+We achieve an excellent gender balance of 48.5% women, 49.2% men, 0.3% Other and 2% preferring not to provide gender information. Overwhelmingly our workshop attendees are graduate students 42%, followed by 17% post-doctoral researchers, 15% research staff and a mix of other academic roles.  Strongest representation in our workshops comes from life sciences with a full 50% of workshop attendees coming from that discipline. There is strong representation from planetary science, mathematics and physics -  each with 6% -  and then a few percent from all the other academic fields together, including the humanities.
+
+![Perception of Instructors](instructors)
+
+Representing our hands-on and practical teaching methods, 81% of our learners report that our workshops are “just right” in terms of balancing lecture-style delivery and hands-on skill  challenges.
+
+![New information](newinfo)
+
+The Carpentries work very hard to be an open and inclusive community and our data show this.  Ninety-seven percent of our workshop attendees feel that we build a welcoming atmosphere - the fact that we enforce a clear code of conduct at our workshops helps enormously. Ninety percent feel that the material meets the descriptions of the course they read ahead of time. Ninety percent would recommend this kind of workshop to a friend or colleague. Eighty-nine percent learned skills they feel they will be able to apply in their research. Eighty-seven percent feel the workshop was worth their time, and 82% feel the material covered was reasonable for the allotted time.
+
+![Motivation](motivation)
+
+Training our instructors and preparing them to be effective teachers pays off very well in our respondent data. Ninety-eight percent  of our post-workshop respondents feel that their instructors were often/always considerate. Ninety-six percent feel they were often/always enthusiastic. Ninety-five percent feel that instructors often/always gave clear answers to questions and 90% felt that instructors were often/always good communicators.
+
+Workshop helpers, an important part of how we scale the teaching of complicated skills in live, hands-on ways, get similar, if slightly better, responses than our instructors. Replying to the question of whether our instructors were Never, Rarely Sometimes, Often or Always, “considerate, enthusiastic, good communicators and gave clear answers”, respondents stated that 97% were often/always considerate, 94% were often/always enthusiastic, 94% were good communicators and 93% said the helpers gave them clear answers to questions.
+
+![Description](intimidation)
+
+Over 50% felt that most or all of the information provided to them was new. Over 50% of respondents in each of the major topics we teach reported that they had "little or no knowledge" of the topic going into the workshop. Similarly, between 57% and 45% of workshop attendees felt intimidated by each of the core topics we teach. Rates were 57% for Git, 53% for SQL, 49% for Python, 49% for Unix Shell and 45% for R.
+
+After the workshops, we asked learners to self-assess their own learning improvements in the same topical areas that intimidated them going into the workshops. Our most effective lesson, based on self-assessment of skills, is the lesson on Git, with 63% of attendees feeling their knowledge increased from the lesson. This was closely followed by 56% for the Unix shell, 43% for the Python lessons, and 37% for the R lesson. We have some work to do in the programming lessons, but clearly we're having an impact with learners’ confidence improvements with Git and Shell.
+
+More than 70% of our learners are now significantly motivated to work with each of the tools we teach. Through these findings, one can see that Software Carpentry is able to improve learner skills, their abilities, and their confidence in their skills.
+
+# Sustainable
+
+To be sustainable, an organization has to remain relevant and useful. Software Carpentry together with Data Carpentry - collectively, the Carpentries - have built a financial model that ensures their long-term ability to help build teams of digitally skilled researchers. We have done this together by creating  diverse revenue streams that can ensure the long-term support for what we do. Across all disciplines, digital skills for researchers is an area of need that is rapidly growing. As a community-driven and volunteer organization, the Carpentries work to match the needs of its annual supporting member organizations with the needs of learners and instructors throughout the world. We have had good success offering a tangible service - instructor training -to our member organizations in return for an annual subscription fee. In this way, we can provide a service to the member organization and they can support our efforts in a fee-for-service model. These stable and long-term sources of revenue are providing the ongoing funds needed to support the work we do in making these workshops easy to run and highly impactful.
 
 # Conclusion
 
-yes, @Corley-etal_2012 confirmed butts [^longnote]
-
-[^1]: Comical partner of butts.
-[^longnote]: See buttocks for longer definition.
+The Carpentries work to bring effective teaching practices to learners in short workshop settings. Acknowledging that technical skills, particularly computational skills can be difficult to learn, the Carpentries focus on creating safe and inviting workshop environments. This has paid off in terms of delivering workshop environments and teaching approaches which can help overcome learner's intimidation with learning new computing tools. Afther we've helped learners move past the intimdation we help to build confidence and motivation for how these tools can be applied in research workflows.  To accomplish this level of impact, our instructor training program and continuous improvement of lesssons are key. Instructurs who are cognizant of the various challenges learners face and have thought about effective ways to deliver ccomplicated topics helps us create our desired workshop environments at scale. We can see from the survey data presented, that the Carpentries are effectively bringing researchers past the intimidation and challenges of getting started with open source software tools. With 45 member organizations in 9 countries as of July 2017 and almost 1000 instructors around the world from over 30 countries. The Carpentries style of instructing and brining digital scholaorship skills to the world is just getting started. We look forward to working to grow our impact around the world.
