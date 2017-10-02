@@ -1,6 +1,6 @@
-## eScience 2017 submission
+## eResearch 2018 submission
 
-Submission by J. Duckles and K. Jordan to eScience 2017.
+Submission by J. Duckles and K. Jordan.
 
 
 
